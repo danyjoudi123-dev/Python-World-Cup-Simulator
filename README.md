@@ -54,3 +54,8 @@ python3 wc.py
 * Interactive menu
 * Tournament statistics and records
 * Export results to CSV
+
+
+** NOTE ** 
+The following website is entirely AI generated, it is merely used as a web based UI for the simulator 
+https://danyjoudi123-dev.github.io/Python-World-Cup-Simulator/ 
